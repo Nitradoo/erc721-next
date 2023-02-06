@@ -19,6 +19,7 @@
 # misc
 .DS_Store
 *.pem
+./generateSignatures.js
 
 # debug
 npm-debug.log*
