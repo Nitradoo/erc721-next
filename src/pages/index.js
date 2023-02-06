@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Messageboard</title>
-        <meta name="description" content="Simple messaging board." />
+        <title>erc721-next</title>
+        <meta name="description" content="A ERC721 NFT mint site." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
